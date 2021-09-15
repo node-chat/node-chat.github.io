@@ -1,6 +1,7 @@
-###.jar Client Download (Requires Java 8 or higher)
-### .exe Client Download (Requires Java 8 or higher)
-### ,jar Server Download (Requires Java 8 or higher)
+
+### [.jar Client Download (Requires Java 8 or higher)](example.com)
+### [.exe Client Download (Requires Java 8 or higher)](example.com)
+### [.jar Server Download (Requires Java 8 or higher)](example.com)
 
 
 **Free Communcations Service using WebSockets**
