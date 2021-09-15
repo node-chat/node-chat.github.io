@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: Node
 description: by SecretAgent
 show-downloads: true
-node-chat:
+url: https://node-chat.github.io
+github:
   zip_url: http://example.com/download.zip
   another_url: http://example.com/download.zip
